@@ -4,6 +4,7 @@
 	width: 100vw;
 	background-color: black;
 	opacity: 25%;
+	filter: blur(10px);
 
 }
 
