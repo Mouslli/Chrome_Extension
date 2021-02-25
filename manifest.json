@@ -1,7 +1,7 @@
 {
     "manifest_version": 2, 
-    "name": "Meditation Break",
-    "description": "Take an active and mindful break from browsing",
+    "name": "Well-being Helper ",
+    "description": "Helps you remove some stressors from  your browsing experience and do a 3 minutes guided meditation",
     "version": "1.0",
     "permissions": ["activeTab"],
     "content_scripts": [
